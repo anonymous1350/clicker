@@ -1,2 +1,2 @@
 # clicker
-just click as fast as you can 
+have the fun and ability to use an auto clicker
